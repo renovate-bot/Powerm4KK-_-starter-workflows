@@ -1,6 +1,5 @@
 ## Contributing
 
-[code-of-conduct]: CODE_OF_CONDUCT.md
 
 Hi there 👋 We are excited that you want to contribute a new workflow to this repo. By doing this you are helping people get up and running with GitHub Actions and that's cool 😎.
 
@@ -11,7 +10,7 @@ https://github.com/actions/.github/blob/main/CODE_OF_CONDUCT.md). By participati
 
 **At this time we are only accepting new starter workflows for Code Scanning**
 
-### Previous guidelines for new starter workflows.
+### Previous guidelines for new starter workflows
 
 Before merging a new workflow, the following requirements need to be met:
 
